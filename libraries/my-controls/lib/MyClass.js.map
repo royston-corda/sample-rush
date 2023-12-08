@@ -1,0 +1,1 @@
+{"version":3,"file":"MyClass.js","sourceRoot":"","sources":["../src/MyClass.ts"],"names":[],"mappings":"AACA;IAAA;IAIA,CAAC;IAHQ,6BAAW,GAAlB;QACE,OAAO,CAAC,GAAG,CAAC,eAAe,CAAC,CAAC;IAC/B,CAAC;IACH,cAAC;AAAD,CAAC,AAJD,IAIC","sourcesContent":["\nexport class MyClass {\n  public doSomething(): void {\n    console.log('Hello, world!');\n  }\n}\n"]}

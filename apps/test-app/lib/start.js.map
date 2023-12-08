@@ -1,0 +1,1 @@
+{"version":3,"file":"start.js","sourceRoot":"","sources":["../src/start.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,aAAa,CAAC;AAEtC,IAAI,OAAO,GAAY,IAAI,OAAO,EAAE,CAAC;AACrC,OAAO,CAAC,WAAW,EAAE,CAAC","sourcesContent":["import { MyClass } from 'my-controls';\n\nlet myClass: MyClass = new MyClass();\nmyClass.doSomething();\n"]}
